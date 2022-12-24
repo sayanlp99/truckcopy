@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "97768506637",
+    "project_id": "truckc0py",
+    "storage_bucket": "truckc0py.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97768506637:android:b81e1dc5ae75f793f25c44",
+        "android_client_info": {
+          "package_name": "com.sayan.truckcopy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97768506637-mh7dlnvarpnn2c02v51cn17hig4t0us7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sayan.truckcopy",
+            "certificate_hash": "cd8407e260462576e72cbcdd5a873d59b474f98f"
+          }
+        },
+        {
+          "client_id": "97768506637-csbhfnsocbunm8ect47ngp3kqh04u0qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6W5wHtKMEysh1HoR-LFLGIIa7svN6ZDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97768506637-csbhfnsocbunm8ect47ngp3kqh04u0qm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
